@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\mips_32\simulation\qsim
+vmips_32
+Z1 !s100 KaDbG8PT>ClIflXMizYYz1
+Z2 I<0ize_UMl=JQ6;<oe:Sao2
+Z3 VP><=9zeWYE0`NHY3fYoX]0
+Z4 dC:\altera\13.1\mips_32\simulation\qsim
+Z5 w1628639929
+Z6 8mips_32.vo
+Z7 Fmips_32.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|mips_32.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1628639930.222000
+Z12 !s107 mips_32.vo|
+!s101 -O0
+vmips_32_vlg_check_tst
+!i10b 1
+Z13 !s100 6kZa<g9md0m97S9RT<L]<3
+Z14 I:<Na;4C1;JV450`<dM0DS2
+Z15 V<KBkYJzO3dV3_57>PdPS43
+R4
+Z16 w1628639927
+Z17 8mips_32_verification_waveform.vwf.vt
+Z18 Fmips_32_verification_waveform.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z19 !s108 1628639931.163000
+Z20 !s107 mips_32_verification_waveform.vwf.vt|
+Z21 !s90 -work|work|mips_32_verification_waveform.vwf.vt|
+!s101 -O0
+R10
+vmips_32_vlg_sample_tst
+!i10b 1
+Z22 !s100 eT9TjSH9>JabTdSA0cRa50
+Z23 IHc1[Ee?K7XB59EmXKP@J>0
+Z24 VACVZLX<96ln8k4Yc<5X]C1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vmips_32_vlg_vec_tst
+!i10b 1
+Z25 !s100 [eljPVcEBMCgjVHoo@@kB1
+Z26 IYkaAVLj:cOFD6jI3XP^@82
+Z27 VmcbZ[JG7@HlU`4=<6lFG50
+R4
+R16
+R17
+R18
+Z28 L0 611
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

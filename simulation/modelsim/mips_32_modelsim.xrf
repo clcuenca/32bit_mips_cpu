@@ -1,0 +1,7 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/mips_32/mips_32.bdf
+source_file = 1, C:/altera/13.1/mips_32/db/mips_32.cbx.xml
+design_name = mips_32
+instance = comp, \pin_name3~output\, pin_name3~output, mips_32, 1
+instance = comp, \pin_name2~input\, pin_name2~input, mips_32, 1
+instance = comp, \pin_name1~input\, pin_name1~input, mips_32, 1

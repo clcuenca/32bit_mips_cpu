@@ -1,0 +1,466 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+valu_1
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 >JQn_;Y4h_W>E;^HYo>Ab3
+Z3 I]^lJzLJdd;0i<d1M=ozf93
+Z4 VBGnR@S>Fk@3W]4<NURYz43
+Z5 !s105 alu_1_sv_unit
+S1
+Z6 dC:\altera\13.1\mips_32
+Z7 w1628668701
+Z8 8C:/altera/13.1/mips_32/components/alu_1.sv
+Z9 FC:/altera/13.1/mips_32/components/alu_1.sv
+L0 8
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/alu_1.sv|
+Z12 o-work work -sv -O0
+Z13 !s108 1628721601.285000
+Z14 !s107 C:/altera/13.1/mips_32/components/alu_1.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_32
+R1
+Z15 !s100 8_34z`U;A6KRIia0gI_511
+Z16 IFEFO4=MPgN_zV:TS:l2eD1
+Z17 VjkMLeOnY3eMb4Q=`e5T942
+Z18 !s105 alu_32_sv_unit
+S1
+R6
+Z19 w1628720403
+Z20 8C:\altera\13.1\mips_32\components\alu_32.sv
+Z21 FC:\altera\13.1\mips_32\components\alu_32.sv
+L0 8
+R10
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:\altera\13.1\mips_32\components\alu_32.sv|
+R12
+Z23 !s108 1628721601.330000
+Z24 !s107 C:\altera\13.1\mips_32\components\alu_32.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+valu_control
+R1
+Z25 !s100 :3LF_O?WQK5nDAU9cd`k61
+Z26 Ija<_0FJCbKOKTiNCFc7]D3
+Z27 V?__jd:bBUOk4Gg4ECmW1]1
+Z28 !s105 alu_control_sv_unit
+S1
+R6
+Z29 w1628642148
+Z30 8C:\altera\13.1\mips_32\components\alu_control.sv
+Z31 FC:\altera\13.1\mips_32\components\alu_control.sv
+L0 4
+R10
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|-sv|C:\altera\13.1\mips_32\components\alu_control.sv|
+R12
+Z33 !s108 1628721601.381000
+Z34 !s107 C:\altera\13.1\mips_32\components\alu_control.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+R1
+Z35 !s100 o^fPaO<[4[<L^;Rd;GBY:2
+Z36 I12`b3jlg_;R@39H5=FKRl0
+Z37 V?JMMBM_X1XSRXWAUT2Vh=1
+Z38 !s105 control_sv_unit
+S1
+R6
+Z39 w1628642106
+Z40 8C:/altera/13.1/mips_32/components/control.sv
+Z41 FC:/altera/13.1/mips_32/components/control.sv
+L0 4
+R10
+r1
+31
+Z42 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/control.sv|
+R12
+Z43 !s108 1628721601.428000
+Z44 !s107 C:/altera/13.1/mips_32/components/control.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vd_ff
+R1
+Z45 !s100 cAc7lZ?XzNfY<GNlSKK[W1
+Z46 IYB9PWEf3f<=RA]<^BBFni1
+Z47 V[aB[0oXe<_SRa1EQ6A0Hd1
+Z48 !s105 d_ff_sv_unit
+S1
+R6
+Z49 w1628621861
+Z50 8C:/altera/13.1/mips_32/components/d_ff.sv
+Z51 FC:/altera/13.1/mips_32/components/d_ff.sv
+L0 4
+R10
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/d_ff.sv|
+R12
+Z53 !s108 1628721601.478000
+Z54 !s107 C:/altera/13.1/mips_32/components/d_ff.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdata_memory_4kb
+R1
+Z55 !s100 E2MTLlVKC0O<Bfz]iG96[2
+Z56 IRFSb6@684Gz>5N5K:jYTS2
+Z57 Vj7jjgXKK?QF`gjT]RV4nL0
+Z58 !s105 data_memory_4kb_sv_unit
+S1
+R6
+Z59 w1628671142
+Z60 8C:/altera/13.1/mips_32/components/data_memory_4kb.sv
+Z61 FC:/altera/13.1/mips_32/components/data_memory_4kb.sv
+L0 4
+R10
+r1
+31
+Z62 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/data_memory_4kb.sv|
+R12
+Z63 !s108 1628721601.525000
+Z64 !s107 C:/altera/13.1/mips_32/components/data_memory_4kb.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecoder_5_to_32
+R1
+Z65 IITB_m6K3CEzHzmoXgda;a1
+Z66 VWf;4[hB8L8Cd6d=S4NIJQ1
+Z67 !s105 register_file_sv_unit
+S1
+R6
+Z68 w1628671161
+Z69 Fcomponents/decoder_5_to_32.sv
+Z70 8C:\altera\13.1\mips_32\components\register_file.sv
+Z71 FC:\altera\13.1\mips_32\components\register_file.sv
+L0 4
+R10
+r1
+31
+Z72 !s108 1628721602.027000
+Z73 !s107 components/mux_32_1.sv|components/decoder_5_to_32.sv|C:\altera\13.1\mips_32\components\register_file.sv|
+Z74 !s90 -reportprogress|300|-work|work|-sv|C:\altera\13.1\mips_32\components\register_file.sv|
+R12
+Z75 !s100 BVZAYXP1mYk^DY=a^Nc>b0
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_1
+R1
+Z76 !s100 lSEFPP6lea3mY=EbL>::;3
+Z77 IXQ?lil]km<lfgZ:dIOfAH0
+Z78 V2TGIb]R^Q_z_Z9G8eRaig0
+Z79 !s105 full_adder_1_sv_unit
+S1
+R6
+Z80 w1628606980
+Z81 8C:/altera/13.1/mips_32/components/full_adder_1.sv
+Z82 FC:/altera/13.1/mips_32/components/full_adder_1.sv
+L0 5
+R10
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/full_adder_1.sv|
+R12
+Z84 !s108 1628721601.615000
+Z85 !s107 C:/altera/13.1/mips_32/components/full_adder_1.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vfull_adder_32
+R1
+Z86 !s100 zeoHFgIEl[PeEX7^ljWMF0
+Z87 IcG?ZNn;d2h;m@_1<:f;Pm0
+Z88 VMI:W?Qh8m[Bll5fd;cJj11
+Z89 !s105 full_adder_32_sv_unit
+S1
+R6
+Z90 w1628607068
+Z91 8C:/altera/13.1/mips_32/components/full_adder_32.sv
+Z92 FC:/altera/13.1/mips_32/components/full_adder_32.sv
+L0 4
+R10
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/full_adder_32.sv|
+R12
+Z94 !s108 1628721601.662000
+Z95 !s107 C:/altera/13.1/mips_32/components/full_adder_32.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vinstruction_memory_4kb
+R1
+Z96 I>?o^TRXkXID2JbCHbAM7W1
+Z97 VV<gd_WffN9XX;`_gg04OT3
+Z98 !s105 instruction_memory_4kb_sv_unit
+S1
+R6
+Z99 w1628721576
+Z100 8C:\altera\13.1\mips_32\components\instruction_memory_4kb.sv
+Z101 FC:\altera\13.1\mips_32\components\instruction_memory_4kb.sv
+L0 3
+R10
+r1
+31
+Z102 !s90 -reportprogress|300|-work|work|-sv|C:\altera\13.1\mips_32\components\instruction_memory_4kb.sv|
+R12
+Z103 !s100 `4nR>W6eXDG6`hRi=[TiP0
+Z104 !s108 1628721601.709000
+Z105 !s107 C:\altera\13.1\mips_32\components\instruction_memory_4kb.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vjump_joiner
+R1
+Z106 !s100 c10ELMNFi`F^L^X^;U[T81
+Z107 I0Q<]nDe8Ql9n`^@U_U3Jz0
+Z108 V0dZzMF@^fH`F6gB11kR?R1
+Z109 !s105 jump_joiner_sv_unit
+S1
+R6
+Z110 w1628621519
+Z111 8C:/altera/13.1/mips_32/components/jump_joiner.sv
+Z112 FC:/altera/13.1/mips_32/components/jump_joiner.sv
+L0 1
+R10
+r1
+31
+Z113 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/jump_joiner.sv|
+R12
+Z114 !s108 1628721601.754000
+Z115 !s107 C:/altera/13.1/mips_32/components/jump_joiner.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_32
+Z116 !s100 HEj=d8dR<3ZRjU:NA`=920
+Z117 I2K504ohU7HnNSaCL<]fnF3
+Z118 VTMC[[kdD^kL=;BZNG`zCn1
+R6
+Z119 w1628665492
+Z120 8C:/altera/13.1/mips_32/mips_32.v
+Z121 FC:/altera/13.1/mips_32/mips_32.v
+L0 19
+R10
+r1
+31
+Z122 !s90 -reportprogress|300|-work|work|C:/altera/13.1/mips_32/mips_32.v|
+Z123 o-work work -O0
+Z124 !s108 1628721601.236000
+Z125 !s107 C:/altera/13.1/mips_32/mips_32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_32_1
+R1
+Z126 I9W3L1`7d7IA2]Z3fR47iL0
+Z127 VKG;<G8MbgWVee7`F^L4IJ0
+R67
+S1
+R6
+R68
+Z128 Fcomponents/mux_32_1.sv
+R70
+R71
+L0 4
+R10
+r1
+31
+R72
+R73
+R74
+R12
+Z129 !s100 ePE7K9`o?5b32PdV3AEoU1
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_32_two_one
+R1
+Z130 !s100 61<l`e>EXXRJ17zZHOKHl1
+Z131 IFk3f>1;^TO>;0gXPUU5?D1
+Z132 VWS0Vo[ClK8LfZ3D<g<kYT1
+Z133 !s105 mux_32_two_one_sv_unit
+S1
+R6
+Z134 w1628624452
+Z135 8C:/altera/13.1/mips_32/components/mux_32_two_one.sv
+Z136 FC:/altera/13.1/mips_32/components/mux_32_two_one.sv
+L0 4
+R10
+r1
+31
+Z137 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/mux_32_two_one.sv|
+R12
+Z138 !s108 1628721601.890000
+Z139 !s107 C:/altera/13.1/mips_32/components/mux_32_two_one.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_5_two_one
+R1
+Z140 !s100 D5OTe@ZCX`JUg0P9Vn1R31
+Z141 I[?onkA:W^S35b@C9ZFA@O3
+Z142 Vc7HCKZlYX3[[RbedoSOij2
+Z143 !s105 mux_5_two_one_sv_unit
+S1
+R6
+Z144 w1628622362
+Z145 8C:/altera/13.1/mips_32/components/mux_5_two_one.sv
+Z146 FC:/altera/13.1/mips_32/components/mux_5_two_one.sv
+L0 4
+R10
+r1
+31
+Z147 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/mux_5_two_one.sv|
+R12
+Z148 !s108 1628721601.798000
+Z149 !s107 C:/altera/13.1/mips_32/components/mux_5_two_one.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux_two_one
+R1
+Z150 !s100 gPgz^Nk2B^U?KV7PLTfVF2
+Z151 IYJ]1a]OhTX19zE9a0XaLT2
+Z152 VCCZfO6Q_Ej4kW@>YBQVDk0
+Z153 !s105 mux_two_one_sv_unit
+S1
+R6
+Z154 w1628625051
+Z155 8C:/altera/13.1/mips_32/components/mux_two_one.sv
+Z156 FC:/altera/13.1/mips_32/components/mux_two_one.sv
+L0 5
+R10
+r1
+31
+Z157 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/mux_two_one.sv|
+R12
+Z158 !s108 1628721601.934000
+Z159 !s107 C:/altera/13.1/mips_32/components/mux_two_one.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vprogram_counter
+R1
+Z160 !s100 F77aN:_2SKezII[3bHO<a2
+Z161 Id1cK;4fW=:aC[eLZSHi8g0
+Z162 Vol2:CQoH@ZJ6KQfN@d^Zi2
+Z163 !s105 program_counter_sv_unit
+S1
+R6
+Z164 w1628670405
+Z165 8C:/altera/13.1/mips_32/program_counter.sv
+Z166 FC:/altera/13.1/mips_32/program_counter.sv
+L0 4
+R10
+r1
+31
+Z167 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/program_counter.sv|
+R12
+!i10b 1
+!s85 0
+Z168 !s108 1628721602.132000
+Z169 !s107 C:/altera/13.1/mips_32/program_counter.sv|
+!s101 -O0
+vregister_32
+R1
+Z170 !s100 EF:bCjg?3efL:Yo6B=@]f0
+Z171 I=]1;D9?XU[OKA1kczPj:`2
+Z172 VLU6X^^2ITQMR`02WX1k0F2
+Z173 !s105 register_32_sv_unit
+S1
+R6
+Z174 w1628621929
+Z175 8C:/altera/13.1/mips_32/components/register_32.sv
+Z176 FC:/altera/13.1/mips_32/components/register_32.sv
+L0 8
+R10
+r1
+31
+Z177 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/register_32.sv|
+R12
+Z178 !s108 1628721601.980000
+Z179 !s107 C:/altera/13.1/mips_32/components/register_32.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_file
+R1
+Z180 !s100 gKDHF`d2k1E^kz_LAcZ7n2
+Z181 IJ9F^`o3PighW9gz86]bYH2
+Z182 VO>ncj3d6lmU^Z@WLcOifU3
+R67
+S1
+R6
+R68
+R70
+R71
+L0 11
+R10
+r1
+31
+R72
+R73
+R74
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vshifter_2_bit
+R1
+Z183 !s100 D[]5ohA5fm1F=MmTcFZ6b2
+Z184 Ih]fTMihFNaBgO]fk5jTFm2
+Z185 VEdcVQQ9c@XA]Zj[N=HNRB3
+Z186 !s105 shifter_2_bit_sv_unit
+S1
+R6
+Z187 w1628621320
+Z188 8C:/altera/13.1/mips_32/components/shifter_2_bit.sv
+Z189 FC:/altera/13.1/mips_32/components/shifter_2_bit.sv
+L0 4
+R10
+r1
+31
+Z190 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/components/shifter_2_bit.sv|
+R12
+Z191 !s108 1628721602.087000
+Z192 !s107 C:/altera/13.1/mips_32/components/shifter_2_bit.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extension_unit_16_32
+R1
+!i10b 1
+Z193 !s100 O2mKD[V6[=?SATORaz;0g0
+Z194 I5k7E=O?3cHf<R^>ghc][I2
+Z195 VL32L23feb9MooS?6LYj;E0
+Z196 !s105 sign_extension_unit_sv_unit
+S1
+R6
+Z197 w1628624122
+Z198 8C:/altera/13.1/mips_32/sign_extension_unit.sv
+Z199 FC:/altera/13.1/mips_32/sign_extension_unit.sv
+L0 4
+R10
+r1
+!s85 0
+31
+!s108 1628721602.177000
+!s107 C:/altera/13.1/mips_32/sign_extension_unit.sv|
+Z200 !s90 -reportprogress|300|-work|work|-sv|C:/altera/13.1/mips_32/sign_extension_unit.sv|
+!s101 -O0
+R12

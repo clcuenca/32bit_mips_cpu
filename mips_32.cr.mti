@@ -1,0 +1,120 @@
+C:/altera/13.1/mips_32/components/alu_1.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/alu_1.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_1
+
+Top level modules:
+	alu_1
+
+} {} {}} C:/altera/13.1/mips_32/components/alu_control.sv {1 {vlog -work work -sv {C:\altera\13.1\mips_32\components\alu_control.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} C:/altera/13.1/mips_32/components/jump_joiner.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/jump_joiner.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jump_joiner
+
+Top level modules:
+	jump_joiner
+
+} {} {}} C:/altera/13.1/mips_32/components/mux_32_1.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/mux_32_1.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_32_1
+
+Top level modules:
+	mux_32_1
+
+} {} {}} C:/altera/13.1/mips_32/components/full_adder_32.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/full_adder_32.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_adder_32
+
+Top level modules:
+	full_adder_32
+
+} {} {}} C:/altera/13.1/mips_32/sign_extension_unit.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/sign_extension_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sign_extension_unit_16_32
+
+Top level modules:
+	sign_extension_unit_16_32
+
+} {} {}} C:/altera/13.1/mips_32/components/d_ff.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/d_ff.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/altera/13.1/mips_32/components/mux_5_two_one.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/mux_5_two_one.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_5_two_one
+
+Top level modules:
+	mux_5_two_one
+
+} {} {}} C:/altera/13.1/mips_32/program_counter.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/program_counter.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} C:/altera/13.1/mips_32/components/full_adder_1.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/full_adder_1.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_adder_1
+
+Top level modules:
+	full_adder_1
+
+} {} {}} C:/altera/13.1/mips_32/components/shifter_2_bit.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/shifter_2_bit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shifter_2_bit
+
+Top level modules:
+	shifter_2_bit
+
+} {} {}} C:/altera/13.1/mips_32/components/mux_two_one.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/mux_two_one.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_two_one
+
+Top level modules:
+	mux_two_one
+
+} {} {}} C:/altera/13.1/mips_32/mips_32.v {1 {vlog -work work C:/altera/13.1/mips_32/mips_32.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mips_32
+
+Top level modules:
+	mips_32
+
+} {} {}} C:/altera/13.1/mips_32/components/mux_32_two_one.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/mux_32_two_one.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux_32_two_one
+
+Top level modules:
+	mux_32_two_one
+
+} {} {}} C:/altera/13.1/mips_32/components/decoder_5_to_32.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/decoder_5_to_32.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decoder_5_to_32
+
+Top level modules:
+	decoder_5_to_32
+
+} {} {}} C:/altera/13.1/mips_32/components/register_32.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/register_32.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_32
+
+Top level modules:
+	register_32
+
+} {} {}} C:/altera/13.1/mips_32/components/control.sv {1 {vlog -work work -sv C:/altera/13.1/mips_32/components/control.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}}

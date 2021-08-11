@@ -1,0 +1,4 @@
+Warning (10268): Verilog HDL information at program_counter.sv(28): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at instruction_memory_4kb.sv(30): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at register_file.sv(81): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at data_memory_4kb.sv(30): always construct contains both blocking and non-blocking assignments
