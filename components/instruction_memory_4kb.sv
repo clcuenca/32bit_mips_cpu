@@ -18,7 +18,7 @@ module instruction_memory_4kb(clock, address, instruction);
 	/// Internal Components
 	
 	// 32-bit x 1024
-	reg [31:0] memory [511:0] ; // Sequential memory elements
+	reg [31:0] memory [1023:0] ; // Sequential memory elements
 	reg [7:0]  divider        ; // Clock Divider
 	
 	initial begin
