@@ -2,6 +2,10 @@
 
 This was a final project for one of my labs.
 
+## Organization
+
+Quartus organizes things in its' own way. Most of the SystemVerilog files reside in the "Components" directory.
+
 ## Necessary Software
 
 Intel/Altera Quartus 13.1 is necessary to simulate the processor, specifically ModelSim. ModelSim comes installed with Quartus.
